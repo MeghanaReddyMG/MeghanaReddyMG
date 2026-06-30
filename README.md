@@ -14,10 +14,10 @@ I enjoy building scalable web applications, solving real-world problems through 
 
 ## 🚀 Currently Working On
 
-* 🔹 Strengthening my Java Full Stack Development skills
-* 🔹 Building scalable web applications using Spring Boot and REST APIs
-* 🔹 Learning Cloud technologies and DevOps basics
-* 🔹 Exploring modern software development tools and frameworks
+*  Strengthening my Java Full Stack Development skills
+*  Building scalable web applications using Spring Boot and REST APIs
+*  Learning Cloud technologies and DevOps basics
+*  Exploring modern software development tools and frameworks
 
 ---
 
