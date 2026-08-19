@@ -3,7 +3,7 @@
 
 ## 👩‍💻 About Me
 
-I'm **Meghana Reddy M G**, a recent Bachelor of Engineering graduate in **Information Science & Engineering** from **Sri Sairam College of Engineering, Bengaluru (2022–2026)** with a **CGPA of 8.75**.
+I'm **Meghana Reddy M G**, a recent Bachelor of Engineering graduate in **Information Science & Engineering** from **Sri Sairam College of Engineering, Bengaluru (2022–2026)** with a **CGPA of 8.74**.
 
 I am a **Java Full Stack Developer** passionate about building scalable web applications, backend systems, and solving real-world problems through technology. I enjoy developing end-to-end applications using Java, Spring Boot, MySQL, and modern web technologies.
 
